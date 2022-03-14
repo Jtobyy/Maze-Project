@@ -8,3 +8,4 @@ Maze-Project is a game developed in C Programming and SDL2. The Maze-Project imp
 ## Credits
 ### Authors
 Bahakae Precious Solomon [Github](https://github.com/Precious-B) [Twitter](https://twitter.com/@Precious04085)
+Olorunmeyan Joseph Tobi [Github](https://github.com/Jtobyy)
